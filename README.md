@@ -58,7 +58,7 @@ This project builds a **full Movie Recommendation System** from scratch on the N
 
 ## 🚀 Live Demo
 
-> 📓 View the notebook on Kaggle: **[Netflix Recommendation System — Kaggle Notebook](#https://www.kaggle.com/code/kp009m/netflix-recommendation-system)**
+> 📓 View the notebook on Kaggle: **[Netflix Recommendation System — Kaggle Notebook](https://www.kaggle.com/code/kp009m/netflix-recommendation-system)**
 
 ```python
 # One-line usage after setup
@@ -392,6 +392,6 @@ Made with ❤️ and 🐍 Python
 
 ⭐ **Star this repo** if you found it helpful!
 
-🔗 Also check out the companion **[Netflix EDA Notebook](#https://github.com/kashyap09m/Netflix_Data_Analysis)**
+🔗 Also check out the companion **[Netflix EDA Notebook](https://github.com/kashyap09m/Netflix_Data_Analysis)**
 
 </div>
